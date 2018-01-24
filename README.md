@@ -1,6 +1,8 @@
 # SQL2LINQConvertor
 A work in progress project aimed at conversion of SQL queries to LINQ queries
 
+Convert SQL to Linq Format with ease
+
 Hi I am Ganesh Kamath. I work for ERachana Technologies.
 
 I have been working on ASP.net applications for the past 7 months. I am still new to SQL and LINQ. I have created a basic SQL to LINQ convertor which I hope to see compete in converting SQL to LINQ as the project progresses.
